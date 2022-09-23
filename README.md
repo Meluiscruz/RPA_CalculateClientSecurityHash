@@ -1,1 +1,1 @@
-# RPA_CalculateClientSecurityHash
+﻿# RPA_CalculateClientSecurityHash
